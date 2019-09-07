@@ -1,6 +1,9 @@
 //function selection sort
 //header file
 
+#include <iostream>
+using namespace std;
+
 void selectionSort (int v[], int dim)
 {
 	for(int i = 0; i<dim; i++)
