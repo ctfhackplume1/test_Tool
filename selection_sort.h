@@ -5,7 +5,7 @@
 using namespace std;
 
 void change (int &a, int &b);
-void selectionSort (int v[], int dimension);
+void selectionSort (int v[], int dim);
 
 void selectionSort (int v[], int dim)
 {
