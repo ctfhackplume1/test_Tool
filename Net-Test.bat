@@ -1,4 +1,4 @@
-REM rob
+REM Jiren
 @ECHO OFF
 :menu
 CLS
@@ -13,6 +13,7 @@ ECHO *  Q. Esci e torna al CMD(prompt dei comandi)
 ECHO *                                                        
 ECHO **********************************************************  
 
+REM SET /P GW=DEFAULT GATEWAY:
 SET GW=192.168.1.1 
 SET /P scelta=SCEGLI:
 
